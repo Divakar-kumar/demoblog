@@ -1,0 +1,14 @@
+Folder PATH listing for volume DATA
+Volume serial number is EE1F-5188
+D:.
+|   config.toml
+|   output.doc
+|   
++---archetypes
+|       default.md
+|       
++---content
++---data
++---layouts
++---static
+\---themes
